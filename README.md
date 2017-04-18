@@ -11,3 +11,7 @@ Características principales:
 + Compatibilidad con sistemas macOS
 
 Las Herramientas que incluyen permiten relizar pruebas de penetracin desde sistemas macOS.
+
+Descargar
+-----------------
+Las descargas se pueden realizar desde la web oficial del proyecto http://k0sasp.kontrol0.com
