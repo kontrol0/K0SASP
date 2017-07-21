@@ -14,7 +14,10 @@ Las Herramientas que incluyen permiten relizar pruebas de penetracin desde siste
 
 Descargar
 -----------------
-Las descargas se pueden realizar desde la web oficial del proyecto http://k0sasp.kontrol0.com
+Las descargas se pueden realizar desde el siguiente Link https://github.com/kontrol0/K0SASP/releases
+
+O desde la web oficial del proyecto http://k0sasp.kontrol0.com
+
 
 Lsitado de Herramientas
 -----------------
