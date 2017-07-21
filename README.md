@@ -19,7 +19,7 @@ Las descargas se pueden realizar desde el siguiente Link https://github.com/kont
 O desde la web oficial del proyecto http://k0sasp.kontrol0.com
 
 
-Lsitado de Herramientas
+Listado de Herramientas
 -----------------
 
 Information Gathering
