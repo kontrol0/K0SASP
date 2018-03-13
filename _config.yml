@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
-title: [K0sasp]
-description: [hacking with macOS]
+title: [K0sasp - Hacking with macOS]
+show_downloads: [true]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: https://github.com/kontrol0/K0SASP/releases
+
